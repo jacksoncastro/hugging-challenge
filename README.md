@@ -82,4 +82,4 @@ python src/hugging.py
 ## Links
 
 - [huggingface](https://huggingface.co/jacksoncastro/ceares)
-- [streamlit.io](https://ceares.streamlit.app)
+- [streamlit.io](https://ceares-translator.streamlit.app)
